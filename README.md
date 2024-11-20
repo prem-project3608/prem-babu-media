@@ -4,7 +4,18 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=15&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=HELLO+FRIENDS%2C+I'M+MR-PREM+BABU+🙂+🤞;PREM+PROJECT+BOT;PREM+FACEBOOK;PREM+INSTAGRAM;PREM+YOUTUBE;PREM+TIKTOK;PREM+CAPCUT;PREM+PINRETEST;PREM+IMGUR;PREM+IMGBB;PREM+ALL-MEDIA;THANKYOU+FOR+USING+PREM+PROJECT&speed=80)](https://git.io/typing-svg)
+font=Neuton&lines=HELLO+FRIENDS%2C+I'M+MR-PREM+BABU+🙂+🤞&color=green&background=black&size=20&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+PROJECT+BOT&color=red&background=white&size=15&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+FACEBOOK&color=blue&background=yellow&size=18&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+INSTAGRAM&color=magenta&background=black&size=16&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+YOUTUBE&color=yellow&background=blue&size=22&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+TIKTOK&color=lime&background=black&size=14&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+CAPCUT&color=aqua&background=black&size=20&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+PINRETEST&color=orangered&background=black&size=18&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+IMGUR&color=blueviolet&background=black&size=16&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+IMGBB&color=crimson&background=black&size=17&width=360&height=60&center=true&vCenter=true&speed=80;
+PREM+ALL-MEDIA&color=limegreen&background=black&size=19&width=360&height=60&center=true&vCenter=true&speed=80;
+THANKYOU+FOR+USING+PREM+PROJECT&color=gold&background=black&size=24&width=360&height=60&center=true&vCenter=true&speed=80;
 
 
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
