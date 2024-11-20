@@ -23,15 +23,15 @@
 </div>
 
 
-## Instalation :
+## NPM INSTALL 
 ```bash
-> npm i nayan-media-downloader
+npm install prem-babu-media
 ```
-## Last Update 
-```print
-• pintarest (fix)
-• capcut (fix)
-• ytdown (fix)
+## LATEST UPDATE 
+```
+• PREM FACEBOOK 
+• PREM INSTAGRAM 
+• PREM YOUTUB 
 ```
 
 ## Example (fb & insta)
