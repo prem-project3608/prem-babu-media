@@ -2,9 +2,9 @@
   "name": "prem-babu-media",
   "version": "1.4.3",
   "description": "THIS PROJECT IS MADE BY MR PREM BABU",
-  "main": "prem-babu/prem-babu-media.js",
+  "main": "prem-babu/prem-babu.js",
   "scripts": {
-    "test": "node src/test.js"
+    "test": "node prem-babu/prem-babu-test.js"
   },
   "repository": {
     "type": "git",
