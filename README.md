@@ -7,15 +7,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+PREM+BABU+🙂+🤞;PREM+PROJECT+BOT;PREM+FACEBOOK;PREM+INSTAGRAM;PREM+YOUTUBE;PREM+IMGUR;PREM+IMGBB;PREM+PINTEREST;PREM+TIKTOK;PREM+CAPCUT;PREM+ALL+MEDIA;THANKYOU+FOR+USING+PREM+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
 
-<a href="https://www.facebook.com/yourprofile" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 50px; height: 50px;">
-</a>
-<a href="https://www.instagram.com/yourprofile" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 50px; height: 50px;">
-</a>
-<a href="https://www.youtube.com/c/yourchannel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 50px; height: 50px;">
-</a>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 60px; height: 60px;">
+  </a>
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 60px; height: 60px;">
+  </a>
+  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 60px; height: 60px;">
+  </a>
+</div>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-media-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
 
