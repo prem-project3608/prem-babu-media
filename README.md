@@ -8,16 +8,16 @@
 
 
 <div style="display: flex; justify-content: center; gap: 50000px;">
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/prembabu66" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 60px; height: 60px;">
   </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/prem_.status" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 60px; height: 60px;">
   </a>
-  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
+  <a href="https://www.youtube.com/@premfilm" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 60px; height: 60px;">
   </a>
-  <a href="https://github.com/yourprofile" target="_blank">
+  <a href="https://github.com/prem-project3608" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 60px; height: 60px;">
   </a>
 </div>
