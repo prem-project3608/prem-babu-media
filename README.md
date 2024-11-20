@@ -4,7 +4,7 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=000000&background=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR-PREM+BABU+🙂+🤞;PREM+PROJECT+BOT;PREM+FACEBOOK;PREM+INSTAGRAM;PREM+YOUTUBE;PREM+IMGUR;PREM+IMGBB;PREM+PINTEREST;PREM+TIKTOK;PREM+CAPCUT;PREM+ALL+MEDIA;THANKYOU+FOR+USING+PREM+PROJECT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=FF0000&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR-PREM+BABU+🙂+🤞;PREM+PROJECT+BOT;PREM+FACEBOOK;PREM+INSTAGRAM;PREM+YOUTUBE;PREM+IMGUR;PREM+IMGBB;PREM+PINTEREST;PREM+TIKTOK;PREM+CAPCUT;PREM+ALL+MEDIA;THANKYOU+FOR+USING+PREM+PROJECT)](https://git.io/typing-svg)
 
 
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
