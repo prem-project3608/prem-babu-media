@@ -4,7 +4,7 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=15&color=green&background=red&center=true&vCenter=true&width=360&height=60&lines=HELLO+FRIENDS+I'M+MR-PREM+BABU+🙂+🤞;PREM+PROJECT+BOT&color=yellow&background=blue;PREM+FACEBOOK&color=blue&background=green;PREM+INSTAGRAM&color=white&background=red;PREM+YOUTUBE&color=black&background=lime;PREM+TIKTOK&color=purple&background=aqua;PREM+CAPCUT&color=orange&background=orangered;PREM+PINRETEST&color=pink&background=blueviolet;PREM+IMGUR&color=lightblue&background=crimson;PREM+IMGBB&color=gray&background=limegreen;PREM+ALL-MEDIA&color=black&background=gold;THANKYOU+FOR+USING+PREM+PROJECT&color=white&background=darkblue&speed=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=15&color=green&background=white&center=true&vCenter=true&width=380&height=60&lines=HELLO+FRIENDS+I'M+MR-PREM+BABU+🙂+🤞;PREM+PROJECT+BOT&color=yellow&background=blue;PREM+FACEBOOK&color=blue&background=green;PREM+INSTAGRAM&color=white&background=red;PREM+YOUTUBE&color=black&background=lime;PREM+TIKTOK&color=purple&background=aqua;PREM+CAPCUT&color=orange&background=orangered;PREM+PINRETEST&color=pink&background=blueviolet;PREM+IMGUR&color=lightblue&background=crimson;PREM+IMGBB&color=gray&background=limegreen;PREM+ALL-MEDIA&color=black&background=gold;THANKYOU+FOR+USING+PREM+PROJECT&color=white&background=darkblue&speed=80)](https://git.io/typing-svg)
 
 
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
