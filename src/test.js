@@ -1,4 +1,4 @@
-const ndown = require("./prem-babu")
+const ndown = require("./index")
 
 async function test(url){
     let result = await ndown(url) || tikdown(url) || twitterdown(url) || ytdown(url)
