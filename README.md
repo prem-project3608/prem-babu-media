@@ -17,9 +17,11 @@
   <a href="https://www.youtube.com/c/yourchannel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 60px; height: 60px;">
   </a>
+  <a href="https://github.com/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 60px; height: 60px;">
+  </a>
 </div>
 
-[![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-media-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
 
 ## Instalation :
 ```bash
