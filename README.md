@@ -21,6 +21,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 60px; height: 60px;">
   </a>
 </div>
+![Image](https://i.imgur.com/rZxmABp.png)
 
 
 ## NPM INSTALL 
