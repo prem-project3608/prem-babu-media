@@ -1,49 +1,38 @@
 {
-  "name": "nayan-media-downloader",
-  "version": "2.6.7",
-  "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
-  "main": "src/index.js",
+  "name": "prem-babu-media",
+  "version": "1.4.3",
+  "description": "THIS PROJECT IS MADE BY MR PREM BABU",
+  "main": "prem-babu/prem-babu-media.js",
   "scripts": {
     "test": "node src/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader.git"
+    "url": "git+https://github.com/prem-project3608/prem-babu-media.git"
   },
   "keywords": [
-    "instagram",
-    "downloader",
-    "media",
-    "link",
-    "tiktok",
-    "tikvm",
-    "video",
-    "fbdownload",
-    "twdown.net",
-    "fbdownload",
-    "download",
-    "facebook",
-    "fbdown",
-    "youtube",
-    "yt download",
-    "Twitter",
-    "gdrive",
-    "drive link",
-    "google drive",
-    "pintarest",
-    "all media download",
-    "media download",
-    "capcut",
-    "likee",
-    "threads",
-    "nayan"
+    "PREM INSTAGRAM",
+    "PREM FACEBOOK",
+    "PREM YOUTUB",
+    "PREM TIKTOK",
+    "PREM IMGUR",
+    "PREM IMGBB",
+    "PREM CAPCUT",
+    "PREM TWITTER",
+    "PREM PINTAREST",
+    "PREM GOOGLE DRIVE",
+    "PREM LIKEE",
+    "PREM ALL MEDIA",
+    "PREM DOWNLOADER",
+    "PREM PROJECT",
+    "MR PREM BABU"
   ],
-  "author": "NAYAN",
+  "author": "PREM BABU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues"
+    "url": "https://github.com/prem-project3608/prem-babu-media/issues"
   },
-  "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
+  "homepage": "https://github.com/prem-project3608/prem-babu-media#readme",
   "dependencies": {
     "got": "^11.8.3",
     "cheerio": "~1.0.0-rc.5",
