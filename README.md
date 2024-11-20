@@ -4,7 +4,7 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=30&color=red&background=white&center=true&vCenter=true&width=380&height=60&lines=HELLO+FRIENDS+I'M+MR-PREM+BABU+🙂+🤞;PREM+PROJECT+BOT&color=yellow&background=white;PREM+FACEBOOK&color=yellow&background=white;PREM+INSTAGRAM&color=yellow&background=white;PREM+YOUTUBE&color=yellow&background=white;PREM+TIKTOK&color=yellow&background=white;PREM+CAPCUT&color=yellow&background=white;PREM+PINRETEST&color=yellow&background=white;PREM+IMGUR&color=yellow&background=white;PREM+IMGBB&color=yellow&background=white;PREM+ALL-MEDIA&color=yellow&background=white;THANKYOU+FOR+USING+PREM+PROJECT&color=yellow&background=white&speed=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=HELLO+FRIENDS+I'M+MR-PREM+BABU+🙂+🤞;PREM+PROJECT+BOT;PREM+FACEBOOK;PREM+INSTAGRAM;PREM+YOUTUBE;PREM+IMGUR;PREM+IMGBB;PREM+PINTEREST;PREM+TIKTOK;PREM+CAPCUT;PREM+ALL+MEDIA;THANKYOU+FOR+USING+PREM+PROJECT)](https://git.io/typing-svg)
 
 
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
@@ -277,4 +277,3 @@ const url = 'url' // past url
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/www.xnxx.com169)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100000959749712)
 [![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/MOHAMMAD-NAYAN)
-
